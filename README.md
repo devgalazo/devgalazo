@@ -34,7 +34,7 @@ a
 🔥 **Commits Anuais:** ![Commits](https://img.shields.io/badge/Commits-365-blue?style=for-the-badge)  
 🛠️ **Projetos Ativos:** ![Projects](https://img.shields.io/badge/Projetos-7-purple?style=for-the-badge)  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheusgalazo-code&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devgalazo&show_icons=true&theme=tokyonight)  
 
 
 
