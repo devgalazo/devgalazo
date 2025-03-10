@@ -1,7 +1,6 @@
 # 🌌 Bem-vindo ao Universo de Matheus Galazo
 
  🚀 "Código é poesia. Aprendizado é infinito."
-a
 
 ## 🧩 Quem Sou Eu?
 
