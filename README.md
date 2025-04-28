@@ -23,15 +23,15 @@
 ## 🌟 Meus Projetos Favoritos
 
 
-🚀 **[Meu Portfólio](#)** → Uma experiência interativa para apresentar meus trabalhos  
+🚀 **[Meu Portfólio](https://www.matheusgalazo.com.br/)** → Uma experiência interativa para apresentar meus trabalhos  
 
 
 
 ## 📡 Minhas Estatísticas
 
-🎯 **Desafios Completos:** ![Challenges](https://img.shields.io/badge/Desafios-42-green?style=for-the-badge)  
-🔥 **Commits Anuais:** ![Commits](https://img.shields.io/badge/Commits-365-blue?style=for-the-badge)  
-🛠️ **Projetos Ativos:** ![Projects](https://img.shields.io/badge/Projetos-7-purple?style=for-the-badge)  
+🎯 **Desafios Completos:** ![Challenges](https://img.shields.io/badge/Desafios-5-green?style=for-the-badge)  
+🔥 **Commits Anuais:** ![Commits](https://img.shields.io/badge/Commits-50-blue?style=for-the-badge)  
+🛠️ **Projetos Ativos:** ![Projects](https://img.shields.io/badge/Projetos-4-purple?style=for-the-badge)  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devgalazo&show_icons=true&theme=tokyonight)  
 
