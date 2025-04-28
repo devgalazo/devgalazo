@@ -47,9 +47,9 @@
 
 ## 📫 Conecte-se Comigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](#)  
-[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:matheus.galazo@outlook.com)  
-[![Website](https://img.shields.io/badge/-Website-000000?logo=google-chrome&logoColor=white&style=for-the-badge)](#)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/matheus-galazo-75311323a/)  
+[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:contato@matheusgalazo.com.br)  
+[![Website](https://img.shields.io/badge/-Website-000000?logo=google-chrome&logoColor=white&style=for-the-badge)](www.matheusgalazo.com.br)  
 
 🔭 **Seja bem-vindo ao meu universo de ideias e projetos!** 🌌
 
